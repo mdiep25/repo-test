@@ -1,2 +1,2 @@
 # repo-test
-test 4 hook
+test 6 hook again
